@@ -1,0 +1,11 @@
+{
+  "name": "@amamu/fuse_node_locations",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node process_node_locations.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-ipinfo": "^3.0.1"
+  }
+}
